@@ -21,3 +21,6 @@ Screenshot:
 Instruction to use: Open index.html in the browser
 
 Vedio demonstration: [3min video demo](https://youtu.be/I3WuSKsGE98)
+
+###code review suggestion from peer
+Hi, basically I find your project very vivid and clean! I like it! You enriched many parts including your self-introduction, education, projects with second page, and contacts. Especially the project page, you added many intro with images and explnation. So good! A little suggestion is that I don't see your personal js function adding. I see your js file function is from the template. Hope to see more function from you!
